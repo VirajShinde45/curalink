@@ -50,11 +50,7 @@ CuraLink is an AI-powered platform that revolutionizes how patients and research
 
 ## 🚀 **Live Demo**
 
-**Platform URL**: [https://zoj359cnbsu6.space.minimax.io](https://zoj359cnbsu6.space.minimax.io)
-
-### **Test Accounts**
-- **Patient Account**: `pkbqfyhc@minimax.com` / `qUe8UBwHAa`
-- **Researcher Account**: `ynrajxfa@minimax.com` / `5lvkPndPq0`
+**Platform URL**: [https://curalink-coral.vercel.app/](https://curalink-coral.vercel.app/)
 
 ## 🏗️ **Technology Stack**
 
